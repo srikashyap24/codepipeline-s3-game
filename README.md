@@ -3,6 +3,17 @@
 
 This project demonstrates **Continuous Deployment using AWS CodePipeline and Amazon S3** by hosting a simple browser-based game. Any changes pushed to the connected GitHub repository are automatically deployed to an S3-hosted static website.
 
+---
+
+## 🕹️ Game: Programming Languages Matching Game
+
+**Match the logos of your favorite programming languages!**  
+Flip two cards at a time and try to find all the matching pairs.
+
+This simple memory game is built using **HTML**, **CSS**, and **JavaScript**. It's a fun way to test your memory and recognize popular programming languages.
+
+---
+
 ## 🚀 Project Overview
 
 This project showcases:
