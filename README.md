@@ -1,1 +1,1 @@
-# codepipeline-s3-game
+# Continuous Deployment using AWS Code Pipeline and S3
