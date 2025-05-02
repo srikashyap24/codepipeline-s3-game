@@ -61,8 +61,8 @@ This project showcases:
 
 ## 📸 Screenshots
 
-<img src="">
-<img src="">
+<img src="arch.png">
+<img src="interface.png">
 
 
 
